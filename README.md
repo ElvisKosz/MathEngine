@@ -1,3 +1,3 @@
 # MathEngine
 
-This is a math bideo edddeting software.
+This is a math video edddeting software.
